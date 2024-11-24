@@ -53,9 +53,9 @@
 
 // Data type conversion
 
-// fn main() {
-//     let float: f32 = 324.54353;
-//     let integer: u32 = float as u32;
+fn main() {
+    let float: f32 = 324.54353;
+    let integer: u32 = float as u32;
 
-//     println!("{}", integer);
-// }
+    println!("{}", integer);
+}
