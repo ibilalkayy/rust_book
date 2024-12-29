@@ -1,0 +1,1 @@
+/home/ibilalkayy/Documents/rust/rust_book/15_mod_use/target/debug/mod_use: /home/ibilalkayy/Documents/rust/rust_book/15_mod_use/src/greetings/data.rs /home/ibilalkayy/Documents/rust/rust_book/15_mod_use/src/greetings/happy.rs /home/ibilalkayy/Documents/rust/rust_book/15_mod_use/src/greetings/mod.rs /home/ibilalkayy/Documents/rust/rust_book/15_mod_use/src/main.rs
